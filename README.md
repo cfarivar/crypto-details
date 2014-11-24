@@ -5,21 +5,22 @@ Cyrus Farivar (Updated: November 24, 2014)
 
 Signal/Redphone available upon request
 
-Wickr: cjfarivar
+Wickr: `cjfarivar`
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
-Jabber ID: cyrus.farivar!arstechnica.com@my.onsip.com
+Jabber ID: `cyrus.farivar!arstechnica.com@my.onsip.com`
 
-Jabber Fingerprint: 7D707208 80A74175 0823AB55 1B62E793 7A7CED67
+Jabber Fingerprint: `7D707208 80A74175 0823AB55 1B62E793 7A7CED67`
 
-Short ID: 67A63251
-Key ID: 8A2310AF67A63251
+Short ID: `67A63251`
+Key ID: `8A2310AF67A63251`
 
-PGP Fingerprint: BCD0 CEC6 E6FB 971E 26DC 0A36 8A23 10AF 67A6 3251
+PGP Fingerprint: `BCD0 CEC6 E6FB 971E 26DC 0A36 8A23 10AF 67A6 3251`
 
 Public Key Server -- Get ``0x8a2310af67a63251 ''
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.0
 
@@ -77,3 +78,4 @@ cVgDgb6Hyy7uOeeh6UnRN+rTox5vrHcdFB2D5fOBNdhU0sh4Nl8Nx5iQ68tL76+ltQO6dC2B
 tfPc0hqWiBOXojXiHLXB17SSMA0=
 =RCvA
 -----END PGP PUBLIC KEY BLOCK-----
+```
