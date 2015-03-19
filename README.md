@@ -1,7 +1,7 @@
 crypto-details
 ==============
 
-Cyrus Farivar (Updated: November 24, 2014)
+Cyrus Farivar (Updated: March 19, 2015)
 
 Signal/Redphone available upon request
 
@@ -11,7 +11,7 @@ Jabber (XMPP) with OTR (Off-the-Record messaging)
 
 Jabber ID: `cyrus.farivar!arstechnica.com@my.onsip.com`
 
-Jabber Fingerprint: `8931B34E 86DBCC44 06249554 C5E60247 6CB76786`
+Jabber Fingerprint: `F4CE26DB 18023CBC 56AB4A63 AC0E8BB4 0F4A26E4`
 
 Short ID: `67A63251`
 Key ID: `8A2310AF67A63251`
