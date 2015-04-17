@@ -1,7 +1,7 @@
 crypto-details
 ==============
 
-Cyrus Farivar (Updated: March 19, 2015)
+Cyrus Farivar (Updated: April 17, 2015)
 
 Signal/Redphone available upon request
 
