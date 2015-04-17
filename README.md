@@ -11,7 +11,7 @@ Jabber (XMPP) with OTR (Off-the-Record messaging)
 
 Jabber ID: `cyrus.farivar!arstechnica.com@my.onsip.com`
 
-Jabber Fingerprint: `251870F2 61A057F4 A5188791 5574C6AC 7071C01D`
+Jabber Fingerprint: `26F3F7BF 3B089EFB 39B8B8D7 0639A5E7 2A586339`
 
 Short ID: `67A63251`
 Key ID: `8A2310AF67A63251`
