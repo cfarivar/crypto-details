@@ -1,11 +1,13 @@
 crypto-details
 ==============
 
-Cyrus Farivar (Updated: April 17, 2015)
+Cyrus Farivar (Updated: July 19, 2015)
 
 Signal/Redphone available upon request
 
 Wickr: `cjfarivar`
+
+Telegram: `cfarivar`
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
