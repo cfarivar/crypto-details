@@ -3,6 +3,8 @@ crypto-details
 
 Cyrus Farivar (Updated: July 19, 2015)
 
+https://keybase.io/cfarivar
+
 Signal/Redphone available upon request
 
 Wickr: `cjfarivar`
