@@ -1,7 +1,7 @@
 crypto-details
 ==============
 
-Cyrus Farivar (Updated: July 19, 2015)
+Cyrus Farivar (Updated: August 12, 2015)
 
 https://keybase.io/cfarivar
 
