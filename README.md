@@ -20,7 +20,7 @@ Alternative Jabber ID: `cfarivar@jabber.calyxinstitute.org`
 
 OTR Fingerprint: `6DCD7549 1545E5EC B2394A4A 1989DF4D 4F9D1007`
 
-Short ID: `67A63251`
+PGP Short ID: `67A63251`
 Key ID: `8A2310AF67A63251`
 
 PGP Fingerprint: `BCD0 CEC6 E6FB 971E 26DC 0A36 8A23 10AF 67A6 3251`
