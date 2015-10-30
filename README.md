@@ -7,18 +7,18 @@ https://keybase.io/cfarivar
 
 Signal/TextSecure available upon request
 
-Wickr: cjfarivar
-Telegram: cfarivar
+Wickr: `cjfarivar`
+Telegram: `cfarivar`
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
-Jabber ID: cyrus.farivar!arstechnica.com@my.onsip.com
+Jabber ID: `cyrus.farivar!arstechnica.com@my.onsip.com`
 
-OTR Fingerprint: 4311DE8B 2192705B 0B0BCF5D 04C447EE D8A43804
+OTR Fingerprint: `4311DE8B 2192705B 0B0BCF5D 04C447EE D8A43804`
 
-Alternative Jabber ID: cfarivar@jabber.calyxinstitute.org
+Alternative Jabber ID: `cfarivar@jabber.calyxinstitute.org`
 
-OTR Fingerprint: 6DCD7549 1545E5EC B2394A4A 1989DF4D 4F9D1007
+OTR Fingerprint: `6DCD7549 1545E5EC B2394A4A 1989DF4D 4F9D1007`
 
 Short ID: `67A63251`
 Key ID: `8A2310AF67A63251`
