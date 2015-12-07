@@ -5,7 +5,7 @@ Cyrus Farivar (Updated: December 7, 2015)
 
 https://keybase.io/cfarivar
 
-Signal Fingerprint: 
+Signal Fingerprint: <BR>
 `05 50 dc 9d f0 0c 70 2d dd`<BR>
 `79 la 49 ab 34 41 cb 84 7d`<BR> 
 `e9 3f 85 67 d9 f4 72 3a 6f`<BR>
