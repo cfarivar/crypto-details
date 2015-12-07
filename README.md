@@ -6,10 +6,10 @@ Cyrus Farivar (Updated: December 7, 2015)
 https://keybase.io/cfarivar
 
 Signal Fingerprint: 
-`05 50 dc 9d f0 0c 70 2d dd`
-`79 la 49 ab 34 41 cb 84 7d` 
-`e9 3f 85 67 d9 f4 72 3a 6f`
-`l6 ce 4b 6b 28 41`
+`05 50 dc 9d f0 0c 70 2d dd`<BR>
+`79 la 49 ab 34 41 cb 84 7d`<BR> 
+`e9 3f 85 67 d9 f4 72 3a 6f`<BR>
+`l6 ce 4b 6b 28 41`<BR>
 
 Telegram: `cfarivar`
 
