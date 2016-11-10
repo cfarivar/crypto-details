@@ -16,13 +16,11 @@ Telegram: `cfarivar`
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
-Jabber ID: `cyrus.farivar!arstechnica.com@my.onsip.com`
-
-OTR Fingerprint: `4311DE8B 2192705B 0B0BCF5D 04C447EE D8A43804`
+Jabber ID: `cfarivar@dukgo.com`
+OTR Fingerprint: `1CBC0E5D 085EEE73 6160FB4E 30CB84A6 70FFB274`
 
 Alternative Jabber ID: `cfarivar@jabber.calyxinstitute.org`
-
-OTR Fingerprint: `6DCD7549 1545E5EC B2394A4A 1989DF4D 4F9D1007`
+OTR Fingerprint: `BAF250F6 32B4C51A 99E46D55 CC3510F5 8906297C`
 
 PGP Short ID: `67A63251`
 Key ID: `8A2310AF67A63251`
