@@ -5,9 +5,9 @@ Cyrus Farivar (Updated: February 13, 2017)
 
 https://keybase.io/cfarivar
 
-Cyrus Farivar
-c/o Ars Technica, Condé Nast
-1 World Trade Center
+Cyrus Farivar<BR>
+c/o Ars Technica, Condé Nast<BR>
+1 World Trade Center<BR>
 New York, NY 10007
 
 Signal/WhatsApp: `510-394-5485`
