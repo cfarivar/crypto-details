@@ -10,7 +10,7 @@ c/o Ars Technica, Condé Nast<BR>
 1 World Trade Center<BR>
 New York, NY 10007
 
-Signal/WhatsApp: `510-394-5485`
+Signal/WhatsApp: `+1-510-394-5485`
 
 Telegram: `cfarivar`
 
