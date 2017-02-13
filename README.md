@@ -1,18 +1,20 @@
 crypto-details
 ==============
 
-Cyrus Farivar (Updated: November 10, 2016)
+Cyrus Farivar (Updated: February 13, 2017)
 
 https://keybase.io/cfarivar
 
-Signal Fingerprint: <BR>
+Cyrus Farivar
+c/o Ars Technica, Condé Nast
+1 World Trade Center
+New York, NY 10007
 
-`05 b4 7d df 14 9b 5c e0 5f`<BR>
-`7c fa 7c ce eb 3a 06 02 03`<BR>
-`fe e3 fb 1d d2 50 2b 24 1d`<BR>
-`7f 23 50 e3 22 03`<BR>
+Signal/WhatsApp: `510-394-5485`
 
 Telegram: `cfarivar`
+
+ricochet:y6ergoppcczrqup5
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
