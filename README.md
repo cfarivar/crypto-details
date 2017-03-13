@@ -18,10 +18,10 @@ ricochet:y6ergoppcczrqup5
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
-Jabber ID: `cyrus.farivar@arstechnica.com`
+Jabber ID: `cyrus.farivar@arstechnica.com`<BR>
 OTR Fingerprint: `AACEDD80 C7E0253A 17C20EDF FF710476 F8760A75`
 
-Alternative Jabber ID: `cfarivar@jabber.calyxinstitute.org`
+Alternative Jabber ID: `cfarivar@jabber.calyxinstitute.org`<BR>
 OTR Fingerprint: `BAF250F6 32B4C51A 99E46D55 CC3510F5 8906297C`
 
 PGP Short ID: `67A63251`
